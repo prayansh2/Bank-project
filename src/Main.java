@@ -11,7 +11,7 @@ public class Main {
             System.out.println(i+b+d);
         }catch (NumberFormatException e)
         {
-            System.out.println("hii");
+            System.out.println("hiii");
         }
     }
 }
